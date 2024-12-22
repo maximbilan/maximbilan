@@ -1,7 +1,7 @@
 <ul style="list-style-type:none; padding-left: 0.5rem;">
-  <li style="margin-bottom: 0.5rem;">👨‍💻 Senior Software Engineer at <a href="https://myswimpro.com" target="_blank">@myswimpro</a></li>
-  <li style="margin-bottom: 0.5rem;">📱 Mobile apps ⌚️ Wearable apps ☁️ Cloud apps </li>
-  <li style="margin-bottom: 0.5rem;">🍏 Swift/ObjC/C++/Go</li>
-  <li style="margin-bottom: 0.5rem;">🕹️ Former gamedev</li>
-  <li style="margin-bottom: 0.5rem;">📈 Former statistical programmer/analyst</li>
+  <li style="margin-bottom: 0.5rem;">👨‍💻 Senior Software Engineer at <a href="https://myswimpro.com" target="_blank">@MySwimPro</a></li>
+  <li style="margin-bottom: 0.5rem;">📱 <strong>Mobile</strong> | ⌚ <strong>Wearable</strong> | ☁️ <strong>Cloud Applications</strong></li>
+  <li style="margin-bottom: 0.5rem;">🍏 <strong>Swift | Objective-C | C++ | Go</strong></li>
+  <li style="margin-bottom: 0.5rem;">🕹️ Former <strong>Game Developer</strong> 🎮</li>
+  <li style="margin-bottom: 0.5rem;">📊 Former <strong>Statistical Programmer & Analyst</li>
 </ul>
