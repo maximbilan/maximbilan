@@ -6,7 +6,7 @@
   <li style="margin-bottom: 0.5rem;">📊 Former <strong>Statistical Programmer & Analyst</li>
 </ul>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/maximbilan/stats#gh-dark-mode-only">
 <img src="https://github.com/maximbilan/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/maximbilan/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
