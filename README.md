@@ -6,5 +6,5 @@
   <li style="margin-bottom: 0.5rem;">📊 Former <strong>Statistical Programmer & Analyst</li>
 </ul>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/maximbilan/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/maximbilan/github-stats/master/generated/languages.svg)
