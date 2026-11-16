@@ -1,0 +1,24 @@
+# Put this in your profile repo (github.com/<you>/<you>) as .github/workflows/defrag.yml.
+# It redraws the SVG every day and pushes it to an "output" branch.
+name: defrag
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  defrag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: maximbilan/defrag-contributions@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          output_path: dist/defrag.svg
+      - name: Push to the output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git add defrag.svg
+          git -c user.name=defrag -c user.email=defrag@users.noreply.github.com commit -q -m "defrag $(date -u +%F)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" output
