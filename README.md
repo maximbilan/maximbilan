@@ -6,13 +6,7 @@
   <li style="margin-bottom: 0.5rem;">📊 Former <strong>Statistical Programmer & Analyst</li>
 </ul>
 
-<div align="left">
-<a href="https://github.com/maximbilan/stats#gh-dark-mode-only">
-<img src="https://github.com/maximbilan/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/maximbilan/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/maximbilan/defrag-contributions">
+  <img src="https://raw.githubusercontent.com/maximbilan/maximbilan/output/defrag.svg" alt="My last year on GitHub, defragmented: every box is a day, days off end up as free space" width="100%" />
 </a>
-<a href="https://github.com/maximbilan/stats#gh-light-mode-only">
-<img src="https://github.com/maximbilan/stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/maximbilan/stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a>
-</div>
+<sub>My last year on GitHub, defragmented. <a href="https://github.com/maximbilan/defrag-contributions">Get yours</a></sub>
