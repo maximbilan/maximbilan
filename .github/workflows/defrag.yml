@@ -3,7 +3,7 @@
 name: defrag
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "37 4 * * *" # off the hour: GitHub delays or drops many runs scheduled at :00
   workflow_dispatch:
 permissions:
   contents: write
